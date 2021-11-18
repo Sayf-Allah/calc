@@ -661,8 +661,15 @@ As we can see that **signals/slots** take an important part in our code and summ
 * They are a  spirit of listener/event mechanism
 * listen to any mouse mouvement
 * repetitive tasks that automatically triggered periodically
+ > <span style="color:lightblue">Ressources</span> 
+* https://www.qt.io/
+* https://www.google.com/
+  
 > I hope you enjoy my Report :)
-> 
+
+
+
+
 ![](t%20(2).png )
 
 
