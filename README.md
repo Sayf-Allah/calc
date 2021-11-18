@@ -321,7 +321,7 @@ int main(int argc, char *argv[])
 ```
 > ## <span style="color:orange">**Result**</span>
 
- ![](7.png "all lights")
+ ![](7.PNG "all lights")
 
 
 ---
@@ -330,7 +330,7 @@ int main(int argc, char *argv[])
 In This test we will been able to simulate an interactive  traffic light by using the <span style="color:orange">**QTimer**</span> class and <span style="color:orange">**Radio Buttons**</span>, in the following you can see the interface of traffic light and **Our Goal** is play with lights (<span style="color:red">**red**</span> , <span style="color:yellow">**yellow**</span> , <span style="color:green">**green**</span>):
 <pr>
 
- ![](z.png "image")
+ ![](z.PNG "image")
 
  1. Our first test is to change each light 3 seconds in the following order:
 ```
