@@ -509,11 +509,11 @@ void TrafficLight::keyPressEvent(QKeyEvent *e){
 }
 ```
 > ## <span style="color:orange">**Result**</span>
- ![](all.png "all lights")  
+ ![](all.PNG "all lights")  
 
-![](red.png "red light")
-![](gree.png "green light")
-![](yell.png "yellow light")
+![](red.PNG "red light")
+![](gree.PNG "green light")
+![](yell.PNG "yellow light")
 
 ---
 # <span style="color:lightblue">**LCDTime Watch**</span>
@@ -645,15 +645,15 @@ p->show();
 
 **The current system clock time :**
 
-![](3.png "current time")
+![](3.PNG "current time")
  
 
 
 **The LCDnumber clock :**
 
-![](Capture.png "lcd currenttime")
+![](Capture.PNG "lcd currenttime")
 
-![](11.png "lcd currenttime")
+![](11.PNG "lcd currenttime")
 
 # <span style="color:lightseagreen">**Conclusion**</span>
 As we can see that **signals/slots** take an important part in our code and summarizing it as following aspects:
@@ -661,6 +661,7 @@ As we can see that **signals/slots** take an important part in our code and summ
 * They are a  spirit of listener/event mechanism
 * listen to any mouse mouvement
 * repetitive tasks that automatically triggered periodically
+  
  > <span style="color:lightblue">Ressources</span> 
 * https://www.qt.io/
 * https://www.google.com/
@@ -670,7 +671,7 @@ As we can see that **signals/slots** take an important part in our code and summ
 
 
 
-![](t%20(2).png )
+![](t%20(2).PNG )
 
 
   
