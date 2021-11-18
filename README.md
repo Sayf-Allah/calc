@@ -671,7 +671,7 @@ As we can see that **signals/slots** take an important part in our code and summ
 
 
 
-![](t%20(2).PNG )
+![](t(2).PNG )
 
 
   
