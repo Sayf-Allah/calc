@@ -664,7 +664,6 @@ As we can see that **signals/slots** take an important part in our code and summ
   
  > <span style="color:lightblue">Ressources</span> 
 * https://www.qt.io/
-* https://www.google.com/
   
 > I hope you enjoy my Report :)
 
